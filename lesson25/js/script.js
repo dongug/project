@@ -49,3 +49,7 @@ function thirdTask() {
 	// Не трогаем
 	return result;
 }
+
+firstTask();
+secondTask();
+thirdTask();
