@@ -18,3 +18,5 @@ function getCoupeNumber(num) {
 		return Math.ceil(num / 4);
 	}
 }
+calculateVolumeAndArea();
+getCoupeNumber();
